@@ -1,5 +1,5 @@
-# FarmFi 🐔
-Developed by <APU Team, insert name if we want> for the Algorand Reach Hackathon Team Project.
+# FarmFi - The protocol for farmers to get richer faster🐔
+### Developed by <APU Team, insert name if we want> for the Algorand Reach Hackathon Team Project.
 
 ## What is FarmFi?
 ## Main Features of FarmFi
