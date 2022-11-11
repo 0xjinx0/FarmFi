@@ -1,5 +1,5 @@
 # FarmFi - 👨‍🌾 The protocol for farmers to get richer faster 👩‍🌾
-Developed by <APU Team, insert name if we want> for the Algorand Reach Hackathon Team Project.
+Developed by <APU Team, insert name if we want> for the Algorand Reach Hackathon Team Project 2022.
 
 ## What is FarmFi? 🐔
 Being a derivative from Decentralized Financial (DeFi), FarmFi serves to provide farmers the opportunity to earn more by controlling and managing the entire supply chain of their product. Our team have witnessed the decrease in agricultural workers especially among the youths as the daily or monthly income of an average farmer could only help them live on a day-to-day basis. 
