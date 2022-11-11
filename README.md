@@ -6,8 +6,8 @@ Being a derivative from Decentralized Financial (DeFi), FarmFi serves to provide
 
 ## Main Features of FarmFi
 ### Supply Chain Management 
-### Eliminate the Middle Man
-### Track the Transactions
-## How does REACH help in terms of the development of the application?
+### Eliminate Middle Man
+### Track Transactions
+## How does REACH help in terms of the development of the application? (Optional)
 
 ## Deployment
