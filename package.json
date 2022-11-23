@@ -1,0 +1,20 @@
+{
+  "name": "farmfi",
+  "version": "1.0.0",
+  "description": "Developed by <APU Team, insert name if we want> for the Algorand Reach Hackathon Team Project 2022.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xjinx0/FarmFi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xjinx0/FarmFi/issues"
+  },
+  "homepage": "https://github.com/0xjinx0/FarmFi#readme"
+}
